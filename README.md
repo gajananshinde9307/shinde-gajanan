@@ -1,6 +1,3 @@
 # shinde-gajanan
-Hi I am Gajanan Shinde.
-<br>
-I am from Maharashtra
-<br>
-i have completed Angular
+this is my first github Repository
+Author - Gajanan Shinde
